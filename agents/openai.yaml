@@ -1,0 +1,4 @@
+interface:
+  display_name: "脚本整理skill"
+  short_description: "整理脚本、分镜表、封面文案，并按需生成 MiniMax 配音"
+  default_prompt: "Use $script-organizer to restructure script drafts into the reference Feishu format without rewriting the source copy, generate product-led cover copy from script selling points, then generate MiniMax T2A voiceover audio when requested."
